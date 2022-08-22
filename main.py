@@ -1,6 +1,9 @@
+Baseado nas aulas do Jhonatan-de-Souza, no site https://www.youtube.com/watch?v=7U3-pJZkN-o&list=PLnNURxKyyLIIBGBjTU8MQ2JodP7KxBxji&index=4
+    
 # criar um jovo com resultados finais
 # cenario: cenário de guerra com dois lados: time1 e time2, um dos lados pode guanhar, conseguindo assim a vitoria
 # pois as respostas corretas te leva a vitoria
+
 
 
 
